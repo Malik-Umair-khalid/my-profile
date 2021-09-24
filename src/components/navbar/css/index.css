@@ -1,0 +1,18 @@
+
+
+.skills{
+    font-size: 19px;
+    margin-left: 4px !important;
+}
+
+.main:hover{   
+    z-index: 2;
+    padding-left: 10px;
+    transition: all 0.7s;
+    
+}
+@media only screen and (max-width: 400px) {
+   .MuiDrawer-paper{
+       display: none;
+   }
+  }
